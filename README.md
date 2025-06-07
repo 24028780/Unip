@@ -1,1 +1,1 @@
-# Unip
+We created a code where a String variable was intialized in the main method and created a user defined method to greet the user and display the user's name we then called the user defined method into the main method.
